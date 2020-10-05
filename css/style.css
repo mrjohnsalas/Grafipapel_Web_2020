@@ -7557,3 +7557,13 @@ body.md-skin {
     display: none; }
   #page-wrapper {
     margin: 0; } }
+
+
+
+.slick_demo_2 .ibox-content {
+  border: none;
+}
+
+.slick_demo_2 .ibox-content img {
+  width: 100%;
+}
