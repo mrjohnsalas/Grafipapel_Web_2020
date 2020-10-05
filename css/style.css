@@ -7567,3 +7567,7 @@ body.md-skin {
 .slick_demo_2 .ibox-content img {
   width: 100%;
 }
+
+.slick_demo_2 .ibox {
+  margin: 10px 20px;
+}
